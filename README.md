@@ -51,3 +51,18 @@ WhatsApp Message Scheduler Pro
   Configure repeat options if needed
 
   Click "Schedule Messages"
+
+## File Structure
+
+whatsapp-scheduler-pro/
+├── app.py                 # Flask application
+├── requirements.txt       # Python dependencies
+├── README.md              # This file
+├── screenshot.png         # Application screenshot
+├── static/
+│   ├── css/
+│   │   └── styles.css     # Main stylesheet
+│   └── js/
+│       └── script.js      # Client-side JavaScript
+└── templates/
+    └── index.html         # Main HTML template
