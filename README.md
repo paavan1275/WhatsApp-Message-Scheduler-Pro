@@ -3,29 +3,51 @@
 WhatsApp Message Scheduler Pro
 [https://screenshot.png](https://postimg.cc/0MW5Kpc5)
 
-#Features
+Features
 
-🕒 Schedule WhatsApp messages for future delivery
+  🕒 Schedule WhatsApp messages for future delivery
 
-🔁 Set up repeating messages with custom intervals
+  🔁 Set up repeating messages with custom intervals
 
-📱 Mobile-responsive beautiful UI
+  📱 Mobile-responsive beautiful UI
 
-🔒 Secure message processing
+  🔒 Secure message processing
 
-📊 Multiple recipient support
+  📊 Multiple recipient support
 
-⚡ Real-time status alerts
+  ⚡ Real-time status alerts
 
-🛠️ Easy setup with ChromeDriver management
+  🛠️ Easy setup with ChromeDriver management
 
 
-#Technology Stack
+Technology Stack
 
-Backend: Python Flask
+  Backend: Python Flask
 
-Frontend: HTML5, CSS3, JavaScript (ES6)
+  Frontend: HTML5, CSS3, JavaScript (ES6)
 
-Automation: Selenium WebDriver
+  Automation: Selenium WebDriver
 
-Dependencies: webdriver-manager
+  Dependencies: webdriver-manager
+
+Configuration
+
+  Before running:
+
+  Make sure you're logged in to WhatsApp Web in Chrome
+
+  First run may require QR code scanning
+
+  ChromeDriver will be automatically installed
+
+Usage
+
+  Enter recipient numbers (comma separated, with country code)
+
+  Compose your message
+
+  Set schedule time (optional)
+
+  Configure repeat options if needed
+
+  Click "Schedule Messages"
