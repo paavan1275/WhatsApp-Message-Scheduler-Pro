@@ -3,7 +3,7 @@
 WhatsApp Message Scheduler Pro
 [https://screenshot.png](https://postimg.cc/0MW5Kpc5)
 
-Features
+#Features
 
 🕒 Schedule WhatsApp messages for future delivery
 
@@ -20,7 +20,7 @@ Features
 🛠️ Easy setup with ChromeDriver management
 
 
-Technology Stack
+#Technology Stack
 
 Backend: Python Flask
 
